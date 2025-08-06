@@ -57,3 +57,4 @@ Private Sub sfDataGrid_CellClick(ByVal sender As Object, ByVal e As Syncfusion.W
     End If
 End Sub
 ```
+Take a moment to peruse the [WinForms DataGrid - Selection documentation](https://help.syncfusion.com/windowsforms/datagrid/selection), where you can find about the selection with code examples.
